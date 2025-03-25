@@ -1,0 +1,9 @@
+.history
+.DS_Store
+.vscode
+.env
+.env.local
+.env.development
+.env.production
+
+./app/logs/*
